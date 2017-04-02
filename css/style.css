@@ -1,0 +1,42 @@
+h1{
+	color: #ffffff; font-family:"century gothic"; font-size: 300%
+}
+
+h3{
+	color: #0a2c60; font-family: "century gothic"; font-size: 200%;
+}
+
+body{
+	background-image: url("../img/brighton4.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+img{
+	width: 45%
+}
+
+p{
+	color: #0a2c60; font-family:"century gothic"; font-size: 80%
+}
+
+.checklist {
+	margin-left: 50px; font-size: 80%
+
+}
+
+.second-page {
+	margin-left: 50px; font-size: 80%
+}
+
+.back-to-top {
+	margin-left: 50px; font-size: 80%
+}
+
+.social-media{
+	font-size: 200%; margin-left: 50px;
+}
+
+.fa {
+	color: white;
+}
