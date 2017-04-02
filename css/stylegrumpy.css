@@ -6,6 +6,12 @@ body{
 	background-color: #e6c6ff; font-family: 'Josefin Sans', sans-serif;
 }
 
+.card-title {
+	color: #86739b
+}
+
+
+
 .navbar {
 	background-color: #cecece
 }
