@@ -9,3 +9,48 @@ body{
 .navbar {
 	background-color: #cecece
 }
+
+.button{
+	background-color: #585859; 
+	border:none;
+    border-radius: 15px;
+    color: white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'josefin sans', sans-serif    
+}
+
+.bar {
+	font-family: 'josefin sans', sans-serif;
+	font-size: 125%;
+}
+
+a {
+	color: black; font-size: 200%;
+	margin-left: 5%; margin-right: 5%;
+}
+
+.navbar-brand{
+	font-size: 150%
+}
+
+.nav-link{
+	font-size: 110%
+}
+
+.jumbotron {
+	background-image: url("https://i.imgur.com/awvbTKj.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+.btn{
+	background-color: white;
+	color:#585859;
+	border-color: #c9c9c9;
+}
+
